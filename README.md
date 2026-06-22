@@ -1,0 +1,1 @@
+This repository features two machine learning projects: a multi-model regression analysis for predicting life expectancy and a custom PyTorch Deep Convolutional Neural Network (CNN) that processes tabular CSV data with data augmentation to classify apparel categories.
